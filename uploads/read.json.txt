@@ -1,0 +1,23 @@
+{
+ "account_id": "DMIFinance_IN_test",
+ "session_id": "w.20220329121114542c8b4c-af59-11ec-bfe3-f2e06adf943c.E_GS",
+ "client_id": "6242eb56b6e07",
+ "channel": "SITE",
+ "time_utc3": "29.03.2022 14:28:00",
+ "version": 13,
+ "referrrer": "https://dmikyc.dmifinance.in/kyc-v1.3/?key=6242eb56b6e07",
+ "tenor": "13",
+ "time_local":"29.03.2022 16:30:30",
+ "ip": "49.37.76.",
+ "useragent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36",
+ "ph_country":"91",
+ "phone":"700494",
+ "application_id":"0039F000003K2thQAC",
+ "amount":"40000",
+ "deviceid":"23456",
+ "zip_billing":"831013",
+ "country_code_billing":"IN",
+ "zip_shipping":"831013",
+ "country_code_shipping":"IN",
+ "response_content_type": "text/json"
+ }
